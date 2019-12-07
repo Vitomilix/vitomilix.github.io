@@ -4,15 +4,13 @@
   	"lang" : "fr",
   	"name" : "Andi's Portfolio",
   	"scope" : "/",
-  	"display" : "browser",
+  	"display" : "fullscreen",
   	"start_url" : "https://andreas.krueger.nom.za/",
   	"short_name" : "Andi",
   	"theme_color" : "transparent",
   	"description" : "",
   	"orientation" : "any",
   	"background_color" : "transparent",
-  	"related_applications" : "",
-  	"prefer_related_applications" : "false",
   	"generated" : "true",
  "icons": [
   {
